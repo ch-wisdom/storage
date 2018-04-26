@@ -1,0 +1,2 @@
+# storage
+localstorage easy
